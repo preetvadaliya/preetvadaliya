@@ -27,9 +27,6 @@
       <p>Simple Python program to get real time weather data of your location.</p>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td>
       <h4>G O O G L E &nbsp;&nbsp; N E W S</h4>
@@ -37,3 +34,4 @@
     </td>
   </tr>
 </table>
+
