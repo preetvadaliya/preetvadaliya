@@ -18,57 +18,39 @@
 
 ### W E B &nbsp;&nbsp; S C R A P P I N G
 
-<table>
-  <tr>
-    <td>
-      <h4>C O R O N A &nbsp;&nbsp; S T A T I S T I C</h4>
-      <p>Simple Python programs to obtain real-time statistical data of corona viruses.</p>
-    </td>
-    <td>
-      <h4>W E A T H E R &nbsp;&nbsp; A P P</h4>
-      <p>Simple Python program to get real time weather data of your location.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>G O O G L E &nbsp;&nbsp; N E W S</h4>
-      <p>Simple News app built in Python using Beautiful-soup web scraping.</p>
-    </td>
-  </tr>
-</table>
+#### C O R O N A &nbsp;&nbsp; S T A T I S T I C
+Simple Python programs to obtain real-time statistical data of corona viruses.
 
+<br>
+
+#### W E A T H E R &nbsp;&nbsp; A P P
+Simple Python program to get real time weather data of your location.
+
+<br>
+
+#### G O O G L E &nbsp;&nbsp; N E W S
+Simple News app built in Python using Beautiful-soup web scraping.
+   
 <br>
 
 ### A I 
 
-<table>
-  <tr>
-    <td>
-      <h4>D I A L O G F L O W &nbsp;&nbsp; A G E N T</h4>
-      <p>Simple Python program for google dialogflow agent.</p>
-    </td>
-  </tr>
-</table>
+#### D I A L O G F L O W &nbsp;&nbsp; A G E N T
+Simple Python program for google dialogflow agent.
 
 <br>
 
 ### G A M E S
 
-<table>
-  <tr>
-    <td>
-      <h4>P I N G &nbsp;-&nbsp; P O N G</h4>
-      <p>Simple ping-pong game made with python pygame.</p>
-    </td>
-    <td>
-      <h4>S N A C K &nbsp;&nbsp; G A M E</h4>
-      <p>Simple snack game made with python pygame.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>S U D O K U &nbsp;&nbsp; S O L V E R</h4>
-      <p>Simple sudoku solver using python and backtracking algorithm.</p>
-    </td>
-  </tr>
-</table>
+#### P I N G &nbsp;-&nbsp; P O N G
+Simple ping-pong game made with python pygame.
+
+<br>
+
+#### S N A C K &nbsp;&nbsp; G A M E</h4>
+Simple snack game made with python pygame.
+
+<br>
+
+#### S U D O K U &nbsp;&nbsp; S O L V E R</h4>
+Simple sudoku solver using python and backtracking algorithm.
