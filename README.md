@@ -19,12 +19,8 @@
 #### C O R O N A &nbsp;&nbsp; S T A T I S T I C
 Simple Python programs to obtain real-time statistical data of corona viruses.
 
-<br>
-
 #### W E A T H E R &nbsp;&nbsp; A P P
 Simple Python program to get real time weather data of your location.
-
-<br>
 
 #### G O O G L E &nbsp;&nbsp; N E W S
 Simple News app built in Python using Beautiful-soup web scraping.
@@ -43,12 +39,8 @@ Simple Python program for google dialogflow agent.
 #### P I N G &nbsp;-&nbsp; P O N G
 Simple ping-pong game made with python pygame.
 
-<br>
-
 #### S N A C K &nbsp;&nbsp; G A M E</h4>
 Simple snack game made with python pygame.
-
-<br>
 
 #### S U D O K U &nbsp;&nbsp; S O L V E R</h4>
 Simple sudoku solver using python and backtracking algorithm.
