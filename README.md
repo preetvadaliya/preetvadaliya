@@ -20,17 +20,11 @@
   <tr>
     <td>
       <h4>C O R O N A &nbsp;&nbsp; S T A T I S T I C</h4>
-      <p>Simple Python programs to obtain real-time
-      <br>
-      statistical data of corona viruses.</p>
+      <p>Simple Python programs to obtain real-time statistical data of corona viruses.</p>
     </td>
-  </tr>
-  <tr>
     <td>
       <h4>W E A T H E R &nbsp;&nbsp; A P P</h4>
-      <p>Simple Python program to get real time 
-      <br>
-      weather data of your location.</p>
+      <p>Simple Python program to get real time weather data of your location.</p>
     </td>
   </tr>
 </table>
