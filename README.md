@@ -1,5 +1,5 @@
 <h1 align = "center">P R E E T &nbsp;&nbsp;&nbsp;&nbsp; V A D A L I Y A</h1>
-<p align = "center">Student of Information and Communication Technology</p>
+<h4 align = "center">Student of Information and Communication Technology</h4>
 
 <br>
 <br>
