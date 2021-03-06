@@ -28,3 +28,12 @@
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>
+      <h4>G O O G L E &nbsp;&nbsp; N E W S</h4>
+      <p>Simple News app built in Python using Beautiful-soup web scraping.</p>
+    </td>
+  </tr>
+</table>
