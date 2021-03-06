@@ -12,4 +12,23 @@
 <br>
 <br>
 
-## P R O J E C T S
+## P Y T H O N &nbsp;&nbsp; P R O J E C T S
+
+### W E B &nbsp;&nbsp; S C R A P P I N G
+
+<table align = "left">
+  <tr>
+    <td>
+      <h4>C O R O N A &nbsp;&nbsp; S T A T I S T I C</h4>
+      <p>Simple Python programs to obtain real-time statistical data of corona viruses.</p>
+    </td>
+  </tr>
+</table>
+<table align = "right">
+  <tr>
+    <td>
+      <h4>W E A T H E R &nbsp;&nbsp; A P P</h4>
+      <p>Simple Python program to get real time weather data of your location.</p>
+    </td>
+  </tr>
+</table>
