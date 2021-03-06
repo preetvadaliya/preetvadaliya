@@ -16,7 +16,7 @@
 
 ### W E B &nbsp;&nbsp; S C R A P P I N G
 
-<table align = "left">
+<table>
   <tr>
     <td>
       <h4>C O R O N A &nbsp;&nbsp; S T A T I S T I C</h4>
@@ -25,8 +25,6 @@
       statistical data of corona viruses.</p>
     </td>
   </tr>
-</table>
-<table align = "right">
   <tr>
     <td>
       <h4>W E A T H E R &nbsp;&nbsp; A P P</h4>
