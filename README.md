@@ -14,6 +14,8 @@
 
 ## P Y T H O N &nbsp;&nbsp; P R O J E C T S
 
+<br>
+
 ### W E B &nbsp;&nbsp; S C R A P P I N G
 
 <table>
