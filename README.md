@@ -49,3 +49,26 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+### G A M E S
+
+<table>
+  <tr>
+    <td>
+      <h4>P I N G &nbsp;-&nbsp; P O N G</h4>
+      <p>Simple ping-pong game made with python pygame.</p>
+    </td>
+    <td>
+      <h4>S N A C K &nbsp;&nbsp; G A M E</h4>
+      <p>Simple snack game made with python pygame.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>S U D O K U &nbsp;&nbsp; S O L V E R</h4>
+      <p>Simple sudoku solver using python and backtracking algorithm.</p>
+    </td>
+  </tr>
+</table>
